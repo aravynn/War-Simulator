@@ -18,5 +18,7 @@ Needs to have a simplification of visual appearance, as it is a little hectic wh
 Where it stands: 
 I'm currently leaving this as-is, since I'm looking to move onto other relevant projects, however I might come back to this in the future to play around with it more.
 
+This code has been updated to create a different type of war simulator. 
+
 License: 
-All the codde I've developed in this project is considered open-source, so go ahead and use at your pleasure. Drop me a line if you do, I'm interested to know if someone else completes this. 
+All the code I've developed in this project is considered open-source, so go ahead and use at your pleasure. Drop me a line if you do, I'm interested to know if someone else completes this. 
